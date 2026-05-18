@@ -119,18 +119,18 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-<img width="1202" height="1537" alt="image" src="https://github.com/user-attachments/assets/e4396c0d-6597-4587-84ce-e2bb706bc7ee" /><br>
-<img width="1600" height="1205" alt="image" src="https://github.com/user-attachments/assets/80f47fa9-56c9-4336-a374-7382e62107d2" /><br>
-<img width="1251" height="1600" alt="image" src="https://github.com/user-attachments/assets/3963864a-f366-43bb-bc24-6f306bdf4e0c" /><br>
-<img width="502" height="575" alt="Screenshot 2026-05-12 155821" src="https://github.com/user-attachments/assets/2067e068-3be0-4e4b-91be-8826dadf1f1d" /><br>
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 155846" src="https://github.com/user-attachments/assets/83d6e3c7-3cee-4ee4-a933-9b2a65f5ee4b" /><br>
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 155917" src="https://github.com/user-attachments/assets/78c8d3b2-346d-42b4-baff-0cd4c5a2cde7" /><br>
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 160014" src="https://github.com/user-attachments/assets/5f4e10fc-16d1-44c8-9575-2a26dbbc91a6" /><br>
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 155944" src="https://github.com/user-attachments/assets/93bfd01a-46d5-43dc-94d2-1662c1aa07d2" /><br>
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 160315" src="https://github.com/user-attachments/assets/09e48a7d-5960-4d1e-99a3-a9162de87f42" /><br>
-<img width="1919" height="976" alt="Screenshot 2026-05-12 160348" src="https://github.com/user-attachments/assets/187e0f21-cc10-4f72-a1da-72fadb734956" /><br>
+<img width="1202" height="1537" alt="image" src="https://github.com/user-attachments/assets/e4396c0d-6597-4587-84ce-e2bb706bc7ee" /><br><br>
+<img width="1600" height="1205" alt="image" src="https://github.com/user-attachments/assets/80f47fa9-56c9-4336-a374-7382e62107d2" /><br><br>
+<img width="1251" height="1600" alt="image" src="https://github.com/user-attachments/assets/3963864a-f366-43bb-bc24-6f306bdf4e0c" /><br><br>
+<img width="502" height="575" alt="Screenshot 2026-05-12 155821" src="https://github.com/user-attachments/assets/2067e068-3be0-4e4b-91be-8826dadf1f1d" /><br><br>
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 155846" src="https://github.com/user-attachments/assets/83d6e3c7-3cee-4ee4-a933-9b2a65f5ee4b" /><br><br>
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 155917" src="https://github.com/user-attachments/assets/78c8d3b2-346d-42b4-baff-0cd4c5a2cde7" /><br><br>
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 160014" src="https://github.com/user-attachments/assets/5f4e10fc-16d1-44c8-9575-2a26dbbc91a6" /><br><br>
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 155944" src="https://github.com/user-attachments/assets/93bfd01a-46d5-43dc-94d2-1662c1aa07d2" /><br><br>
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 160315" src="https://github.com/user-attachments/assets/09e48a7d-5960-4d1e-99a3-a9162de87f42" /><br><br>
+<img width="1919" height="976" alt="Screenshot 2026-05-12 160348" src="https://github.com/user-attachments/assets/187e0f21-cc10-4f72-a1da-72fadb734956" /><br><br>
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 160412" src="https://github.com/user-attachments/assets/a2a87c71-5689-45a0-82bf-7840a23d0edb" /><br>
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 160412" src="https://github.com/user-attachments/assets/a2a87c71-5689-45a0-82bf-7840a23d0edb" /><br><br>
 
 
 
